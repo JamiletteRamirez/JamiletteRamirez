@@ -2,8 +2,8 @@
 ![Banner de Jamilette](banner-j-r.png)
 
 👩‍🎓 Studied IT at Universidad de Guayaquil, Ecuador \
-👩‍💻 Background in Information Technology and Data Analytics
-📈 Strong focus on data analysis, reporting and visualization
+👩‍💻 Background in Information Technology and Data Analytics \
+📈 Strong focus on data analysis, reporting and visualization \
 🎯 Analytical mindset, problem-solving oriented and continuous learner
 
 # Skills
