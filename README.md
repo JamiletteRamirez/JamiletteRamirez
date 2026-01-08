@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jamilette! 
+![Banner de Jamilette](banner-j-r.png)
 
-<!--
-**JamiletteRamirez/JamiletteRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍🎓 Studied IT at Universidad de Guayaquil, Ecuador \
+👩‍💻 Background in Information Technology and Data Analytics
+📈 Strong focus on data analysis, reporting and visualization
+🎯 Analytical mindset, problem-solving oriented and continuous learner
 
-Here are some ideas to get you started:
+# Skills
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-EDA-informational)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
