@@ -1,5 +1,5 @@
 # Hi, I'm Jamilette! 
-![Banner de Jamilette](banner-j-r.png)
+![Banner de Jamilette](banner_jr.png)
 
 👩‍🎓 Studied IT at Universidad de Guayaquil, Ecuador \
 👩‍💻 Background in Information Technology and Data Analytics \
