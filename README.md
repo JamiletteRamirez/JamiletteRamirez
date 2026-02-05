@@ -97,8 +97,8 @@ class JamiletteRamirez:
 ## 📈 Estadísticas de GitHub
 
 <div align="center">   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamiletteRamirez&show_icons=true&theme=radical&locale=es)   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamiletteRamirez&latyout=compact&theme=radical&locale=es)    
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamiletteRamirez&show_icons=true&theme=radical&locale=es)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamiletteRamirez&latyout=compact&theme=radical&locale=es)
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JamiletteRamirez&theme=radical&locale=es)    
 </div>
 
